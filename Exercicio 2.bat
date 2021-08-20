@@ -8,3 +8,7 @@ md "Distrito Federal" "Goias" "Mato Grosso" "Mato Grosso do Sul"
 cd ..
 cd "Nordeste"
 md "Alagoas" "Bahia" "Ceara" "Maranhao" "Paraiba" "Pernambuco" "Piaui" "Rio Grande do Norte" "Sergipe"
+
+cd ..
+cd "Norte"
+md "Acre" "Amapa" "Amazonas" "Para" "Rondonia" "Roraima" "Tocantins"
